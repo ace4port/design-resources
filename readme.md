@@ -1,10 +1,10 @@
 # Design resources
 
 ### Color
-- Adobe[https://color.adobe.com] Color wheel create 
-- Colorspace[https://mycolor.space] Generate color palettes
+- [Adobe](https://color.adobe.com) Color wheel create 
+- [Colorspace](https://mycolor.space) Generate color palettes
 - [Colorhunt](https://colorhunt.co/) Inspiration, samples
-- (Muzli)[https://colors.muz.li/] Live preview UI with color scheme - real cool
+- [Muzli](https://colors.muz.li/) Live preview UI with color scheme - real cool
 
 
 ### Gradients
@@ -12,6 +12,6 @@
 
 
 ### Inspiration
-- Dribble[https://dribbble.com/]
-- Behance[https://www.behance.net/]
+- [Dribble](https://dribbble.com/)
+- [Behance](https://www.behance.net/)
 - Figma Community
