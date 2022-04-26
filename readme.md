@@ -6,6 +6,7 @@
 - [Behance](https://www.behance.net/)
 - [Canva](https://www.canva.com/)
 - Figma Community
+- [Creative Tim](https://www.creative-tim.com/)
 
 - [ThemeWagon](https://themewagon.com)
 - [Codepen](https://codepen.io)
@@ -40,5 +41,19 @@
 - [FreePik](https://www.freepik.com/)
 - [StoryBlocks](https://www.storyblocks.com/) Videos
 
+# Misc
+
 ### Online photoshop
 - [PhotoPea](https://www.photopea.com/)
+
+### Theme toggle switches - [Theme Toggles](https://toggles.dev/)
+
+### Illustrations
+- [Undraw Illustrations](https://undraw.co/illustrations)
+
+
+### Web sequece [diagrams](https://www.websequencediagrams.com/)
+
+### Icons
+- [Health icons](https://healthicons.org/)
+- 
