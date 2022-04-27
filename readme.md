@@ -56,4 +56,15 @@
 
 ### Icons
 - [Health icons](https://healthicons.org/)
-- 
+
+
+
+### From DesignCourse YouTube
+- [SVG Abstrac patterns & Illustrations](www.figma.com%2Fcommunity%2Ffile%2F860753592237372239&v=Q8A2E8CnYH4)
+- [Hand drawn elements](www.figma.com%2Fcommunity%2Ffile%2F1084863816465418630&v=Q8A2E8CnYH4)
+- [Drawer](https://https://www.figma.com/community/file/1095621413049038492)
+- [140 Hand Drawn Arrow Vector Icon Set](https://www.figma.com/community/file/1080107605244615226)
+- [Abstract Geometric Element Set](https://www.figma.com/community/file/1087997091938791991)
+- [UX Research - Melody HiFi Wireframes](https://www.figma.com/community/file/1092178609821174137)
+- [3DGeometryPack - 01](https://www.figma.com/community/file/1088206555564423933)
+- [Iconly 3D 🚀 770+ Essential icons](https://www.figma.com/community/file/1081592318765093405)
