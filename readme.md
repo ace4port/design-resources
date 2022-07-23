@@ -58,6 +58,13 @@
 - [Health icons](https://healthicons.org/)
 
 
+## Learn
+- [Laws of UX](https://lawsofux.com/en/)
+- [Material Design](https://material.io/)
+- [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/)
+- [UX design](https://uxdesign.cc/)
+- [NG group](https://www.nngroup.com/)
+
 
 ### From DesignCourse YouTube
 - [SVG Abstrac patterns & Illustrations](www.figma.com%2Fcommunity%2Ffile%2F860753592237372239&v=Q8A2E8CnYH4)
