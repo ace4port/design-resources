@@ -7,6 +7,7 @@
 - [Canva](https://www.canva.com/)
 - Figma Community
 - [Creative Tim](https://www.creative-tim.com/)
+- [Hugo Themes](https://themes.gohugo.io/tags/blog/)
 
 - [ThemeWagon](https://themewagon.com)
 - [Codepen](https://codepen.io)
