@@ -71,6 +71,10 @@
 - [NG group](https://www.nngroup.com/)
 
 
+## Design tips from TW creators - Refacoring UI
+- [Refactoring UI](https://twitter.com/i/events/994601867987619840?lang=en)
+
+
 ### From DesignCourse YouTube
 - [SVG Abstrac patterns & Illustrations](www.figma.com%2Fcommunity%2Ffile%2F860753592237372239&v=Q8A2E8CnYH4)
 - [Hand drawn elements](www.figma.com%2Fcommunity%2Ffile%2F1084863816465418630&v=Q8A2E8CnYH4)
@@ -80,3 +84,8 @@
 - [UX Research - Melody HiFi Wireframes](https://www.figma.com/community/file/1092178609821174137)
 - [3DGeometryPack - 01](https://www.figma.com/community/file/1088206555564423933)
 - [Iconly 3D 🚀 770+ Essential icons](https://www.figma.com/community/file/1081592318765093405)
+
+
+# Copy pasta
+- Tailwind components (official tw)
+- Tailwind CSS compoents](https://tailwindcomponents.com/)
