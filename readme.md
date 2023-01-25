@@ -44,6 +44,10 @@
 
 # Misc
 
+
+### Logo inspiration
+- [Link](https://www.logggos.club/browse)
+
 ### Online photoshop
 - [PhotoPea](https://www.photopea.com/)
 
