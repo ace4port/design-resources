@@ -89,3 +89,7 @@
 # Copy pasta
 - Tailwind components (official tw)
 - Tailwind CSS compoents](https://tailwindcomponents.com/)
+
+
+# Cool ones
+- https://jp-eight.vercel.app/kanji/quiz/5
