@@ -93,3 +93,6 @@
 
 # Cool ones
 - https://jp-eight.vercel.app/kanji/quiz/5
+
+# Wow landing pages
+- https://wope.com/
