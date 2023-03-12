@@ -96,3 +96,8 @@
 
 # Wow landing pages
 - https://wope.com/
+
+
+
+
+https://goodpractices.design/naming
