@@ -97,7 +97,8 @@
 # Wow landing pages
 - https://wope.com/
 
-
+# Color palette variations generator
+https://uicolors.app/create
 
 
 https://goodpractices.design/naming
