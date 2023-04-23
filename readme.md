@@ -61,6 +61,7 @@
 
 ### Icons
 - [Health icons](https://healthicons.org/)
+- [Massive Icons pack](https://iconoir.com)
 
 
 ## Learn
@@ -102,3 +103,8 @@ https://uicolors.app/create
 
 
 https://goodpractices.design/naming
+
+
+
+# Site inspirations
+- [Cruip](https://cruip.com/)
