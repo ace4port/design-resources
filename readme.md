@@ -112,3 +112,6 @@ https://goodpractices.design/naming
 
 # Toolkit
 - https://toolkit.addy.codes
+
+# SVG blocks
+- https://fffuel.co/ssscribble/
