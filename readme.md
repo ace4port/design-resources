@@ -1,5 +1,8 @@
 # Design resources
 
+## Learn
+- [UI Guideline](https://www.uiguideline.com/components)
+
 
 ### Inspiration
 - [Dribble](https://dribbble.com/)
