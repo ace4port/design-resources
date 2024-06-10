@@ -118,3 +118,6 @@ https://goodpractices.design/naming
 
 # SVG blocks
 - https://fffuel.co/ssscribble/
+
+# Logo
+- [Svgl](https://svgl.app/)
