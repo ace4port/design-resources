@@ -1,5 +1,7 @@
 # Design resources
 
+**Languages:** [English](README.md) | [Español](README.es-ES.md)
+
 ## Learn
 - [UI Guideline](https://www.uiguideline.com/components)
 
@@ -80,9 +82,9 @@
 
 
 ### From DesignCourse YouTube
-- [SVG Abstrac patterns & Illustrations](www.figma.com%2Fcommunity%2Ffile%2F860753592237372239&v=Q8A2E8CnYH4)
-- [Hand drawn elements](www.figma.com%2Fcommunity%2Ffile%2F1084863816465418630&v=Q8A2E8CnYH4)
-- [Drawer](https://https://www.figma.com/community/file/1095621413049038492)
+- [SVG Abstrac patterns & Illustrations](https://www.figma.com%2Fcommunity%2Ffile%2F860753592237372239&v=Q8A2E8CnYH4)
+- [Hand drawn elements](https://www.figma.com%2Fcommunity%2Ffile%2F1084863816465418630&v=Q8A2E8CnYH4)
+- [Drawer](https://www.figma.com/community/file/1095621413049038492)
 - [140 Hand Drawn Arrow Vector Icon Set](https://www.figma.com/community/file/1080107605244615226)
 - [Abstract Geometric Element Set](https://www.figma.com/community/file/1087997091938791991)
 - [UX Research - Melody HiFi Wireframes](https://www.figma.com/community/file/1092178609821174137)
@@ -92,7 +94,7 @@
 
 # Copy pasta
 - Tailwind components (official tw)
-- Tailwind CSS compoents](https://tailwindcomponents.com/)
+- [Tailwind CSS components](https://tailwindcomponents.com/)
 
 
 # Cool ones
