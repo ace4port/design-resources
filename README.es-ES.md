@@ -1,6 +1,6 @@
-
-
 # Recursos de diseño
+
+**Idiomas:** [English](README.md) | [Español](README.es-ES.md)
 
 ## Aprendizaje
 - [UI Guideline](https://www.uiguideline.com/components)
@@ -82,9 +82,9 @@
 
 
 ### Del canal de YouTube DesignCourse
-- [Patrones SVG abstractos e ilustraciones](www.figma.com%2Fcommunity%2Ffile%2F860753592237372239&v=Q8A2E8CnYH4)
-- [Elementos dibujados a mano](www.figma.com%2Fcommunity%2Ffile%2F1084863816465418630&v=Q8A2E8CnYH4)
-- [Drawer](https://https://www.figma.com/community/file/1095621413049038492)
+- [Patrones SVG abstractos e ilustraciones](https://www.figma.com%2Fcommunity%2Ffile%2F860753592237372239&v=Q8A2E8CnYH4)
+- [Elementos dibujados a mano](https://www.figma.com%2Fcommunity%2Ffile%2F1084863816465418630&v=Q8A2E8CnYH4)
+- [Drawer](https://www.figma.com/community/file/1095621413049038492)
 - [Conjunto de 140 iconos vectoriales de flechas dibujadas a mano](https://www.figma.com/community/file/1080107605244615226)
 - [Conjunto de elementos geométricos abstractos](https://www.figma.com/community/file/1087997091938791991)
 - [UX Research - Wireframes Melody HiFi](https://www.figma.com/community/file/1092178609821174137)
@@ -94,7 +94,7 @@
 
 # Recursos para copiar y pegar
 - Componentes de Tailwind (tw oficial)
-- Componentes de Tailwind CSS](https://tailwindcomponents.com/)
+- [Componentes de Tailwind CSS](https://tailwindcomponents.com/)
 
 
 # Destacados
